@@ -31,15 +31,40 @@ main img{
 aside{
     text-align: center;
     float: left;
-    width: 50%;
+    width: 49%;
 }
 .header{
  font-size: 30px;
+ background-color: rgb(2, 2, 98);
+ color: #f4f4f9;
 }
 .work{
     text-align: center;
     font-size: 25px;
     float: right;
-    width: 50%;
-   
+    width: 49%;
+}
+.work2{
+    background-color: rgb(2, 2, 98);
+ color: #f4f4f9;
+
+}
+footer{
+    background-color: rgb(2, 2, 98);
+    color: #f4f4f9;
+    clear: both;
+
+}
+footer ul li{
+    display: inline-block;
+    margin:  15px;
+}
+.pre
+{
+    float: left;
+    
+}
+a{
+    text-decoration: none;
+    color: #f4f4f9;
 }
