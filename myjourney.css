@@ -12,8 +12,13 @@ header{
     text-align: center;
     font-size: 50px;
 }
+
 aside{
     text-align: center;
+}
+figure{
+    font-size: 50px;
+    color: rgb(239, 128, 10);
 }
 .container1{
     width: 25%;
@@ -33,6 +38,7 @@ aside{
     padding-top: 20px;
     clear: both;
 }
+
 .container2{
     width: 25%;
     float: left;
@@ -65,7 +71,8 @@ main{
 .container3 img{
     height: 70%;
     width: 70%;
-    padding-top: 20px;
+    margin-top: 120px;
+    
 }
 
 .container4{
@@ -78,7 +85,7 @@ main{
 .container4 img{
     height: 70%;
     width: 70%;
-    padding-top: 20px;
+    margin-top: 75px;
 }
 
 
@@ -91,9 +98,7 @@ footer{
     display: inline-block;
     margin: 15px;
   }
-  h{
-    color: rgb(239, 128, 10);
-  }
+ 
   a{
     text-decoration: none;
     color: #f4f4f9;
