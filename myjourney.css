@@ -49,7 +49,7 @@ figure{
 .container2 article{
     width: 92%;
     text-align: center;
-    font-size: 25px;
+    font-size: 23px;
 }
 .container2 img{
     height: 70%;
@@ -102,4 +102,3 @@ footer{
   a{
     text-decoration: none;
     color: #f4f4f9;
-}
